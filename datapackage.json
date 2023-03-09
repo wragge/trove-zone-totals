@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "name": "trove-zone-totals",
+      "type": "table",
+      "path": "data/trove-zone-totals.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "zone",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ]
+}
