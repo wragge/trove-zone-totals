@@ -17,27 +17,55 @@ s.mount("https://", HTTPAdapter(max_retries=retries))
 
 API_KEY = os.getenv("TROVE_API_KEY")
 
+def get_children(term):
+    facets = []
+    for child_term in term["term"]:
+        facets += get_term(child_term)
+    return facets
+
+def get_term(term):
+    facets = []
+    facets.append({"format": term["search"], "total": int(term["count"])})
+    if "term" in term:
+        facets += get_children(term)
+    return facets
+
+def get_formats(zone):
+    facets = []
+    try:
+        for term in zone["facets"]["facet"]["term"]:
+            facets += get_term(term)
+    except (KeyError, TypeError):
+        return []
+    formats = [dict(f, **{"zone": zone["name"]}) for f in facets]
+    return formats
+
 def get_zone_totals():
     params = {
         "q": " ",
         "zone": "all",
         "encoding": "json",
         "n": 0,
-        "key": API_KEY
+        "key": API_KEY,
+        "facet": "format"
     }
     totals = []
+    formats = []
     response = s.get("https://api.trove.nla.gov.au/v2/result", params=params)
     data = response.json()
     for zone in data["response"]["zone"]:
         if zone["name"] != "url":
             totals.append({"zone": zone["name"], "total": int(zone["records"]["total"])})
-    return totals
+            formats += get_formats(zone)
+    return totals, formats
 
 def main():
     Path("data").mkdir(exist_ok=True)
-    totals = get_zone_totals()
-    df = pd.DataFrame(totals)
-    df.to_csv(Path("data", "trove-zone-totals.csv"), index=False)
+    totals, formats = get_zone_totals()
+    df_totals = pd.DataFrame(totals)
+    df_totals.to_csv(Path("data", "trove-zone-totals.csv"), index=False)
+    df_formats = pd.DataFrame(formats)
+    df_formats[["zone", "format", "total"]].to_csv(Path("data", "trove-zone-formats.csv"), index=False)
 
 if __name__ == "__main__":
     main()

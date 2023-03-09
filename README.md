@@ -17,6 +17,14 @@ The dataset is saved as a CSV file containing the following columns:
 * `zone` – name of the Trove zone
 * `total` – number of records in the zone
 
+### trove-zone-formats.csv
+
+The dataset is saved as a CSV file containing the following columns:
+
+* `zone` – name of the Trove zone
+* `format` – format type (see [list of formats](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide#formats))
+* `total` – number of records in the zone with this format
+
 ---
 
 Created by [Tim Sherratt](https://timsherratt.org). If you think this is useful, you can become a [GitHub sponsor](https://github.com/sponsors/wragge).
