@@ -1,6 +1,60 @@
 {
   "resources": [
     {
+      "name": "trove-category-formats",
+      "type": "table",
+      "path": "data/trove-category-formats.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "category_name",
+            "type": "string"
+          },
+          {
+            "name": "category_code",
+            "type": "string"
+          },
+          {
+            "name": "format",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trove-category-totals",
+      "type": "table",
+      "path": "data/trove-category-totals.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "category_name",
+            "type": "string"
+          },
+          {
+            "name": "category_code",
+            "type": "string"
+          },
+          {
+            "name": "total",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
       "name": "trove-zone-formats",
       "type": "table",
       "path": "data/trove-zone-formats.csv",
