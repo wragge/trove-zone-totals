@@ -1,54 +1,54 @@
 zone,format,total
-list,List,108267
+list,List,108349
 gazette,Article,3535033
-map,Map,374498
+map,Map,374769
 map,Map/Aerial photograph,11663
-map,Map/Atlas,35941
+map,Map/Atlas,36011
 map,Map/Braille,124
-map,Map/Electronic,6079
+map,Map/Electronic,6088
 map,Map/Globe or object,549
 map,Map/Large print ,49
-map,Map/Map series,14562
-map,Map/Single map,241916
-map,Microform,14664
-collection,Unpublished,4595165
-collection,Published,269739
-music,Sound,1368953
-music,"Sound/Interview, lecture, talk",114533
-music,Sound/Other sound,586975
-music,Sound/Recorded music,689573
-music,Video,930321
-music,Video/Captioned,129050
-music,Printed music,597476
-music,Audio book,317099
-music,Microform,5163
-picture,Photograph,4554734
-picture,Object,568936
-picture,Art work,249172
-picture,"Poster, chart, other",232664
-picture,Microform,574
-article,Article,10908252
-article,Article/Abstract,2607
-article,Article/Book chapter,189433
-article,Article/Conference paper,395521
-article,Article/Journal or magazine article,4790936
-article,Article/Other article,4760486
-article,Article/Report,682079
-article,Article/Review,318629
-article,Article/Working paper,82219
-article,Periodical,2137793
-article,"Periodical/Journal, magazine, other",2055243
-article,Periodical/Newspaper,84233
-article,Conference Proceedings,529543
-article,Microform,332557
-article,Data set,214101
-book,Book,17689522
-book,Book/Braille,36522
-book,Book/Illustrated,8199466
-book,Book/Large print,117209
-book,Microform,892656
-book,Thesis,654170
-book,Conference Proceedings,529543
-book,Audio book,317099
-book,Archived website,24272
-newspaper,Article,239131315
+map,Map/Map series,14576
+map,Map/Single map,242087
+map,Microform,14665
+picture,Photograph,4570282
+picture,Object,569112
+picture,Art work,249347
+picture,"Poster, chart, other",232708
+picture,Microform,576
+music,Sound,1370322
+music,"Sound/Interview, lecture, talk",114560
+music,Sound/Other sound,587988
+music,Sound/Recorded music,689946
+music,Video,931218
+music,Video/Captioned,129324
+music,Printed music,597833
+music,Audio book,317242
+music,Microform,5167
+collection,Unpublished,4627670
+collection,Published,269805
+article,Article,10920556
+article,Article/Abstract,2613
+article,Article/Book chapter,189596
+article,Article/Conference paper,395704
+article,Article/Journal or magazine article,4793622
+article,Article/Other article,4761582
+article,Article/Report,690273
+article,Article/Review,318680
+article,Article/Working paper,82235
+article,Periodical,2139384
+article,"Periodical/Journal, magazine, other",2056638
+article,Periodical/Newspaper,84433
+article,Conference Proceedings,530401
+article,Microform,332638
+article,Data set,214105
+book,Book,17716570
+book,Book/Braille,36523
+book,Book/Illustrated,8209763
+book,Book/Large print,117339
+book,Microform,892745
+book,Thesis,654449
+book,Conference Proceedings,530401
+book,Audio book,317242
+book,Archived website,24271
+newspaper,Article,239404553
