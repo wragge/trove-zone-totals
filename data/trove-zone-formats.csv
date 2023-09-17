@@ -1,54 +1,54 @@
 zone,format,total
-list,List,109554
+list,List,109628
 gazette,Article,3535033
-map,Map,376977
-map,Map/Aerial photograph,11688
-map,Map/Atlas,36263
+map,Map,377249
+map,Map/Aerial photograph,11689
+map,Map/Atlas,36300
 map,Map/Braille,125
-map,Map/Electronic,6120
+map,Map/Electronic,6121
 map,Map/Globe or object,552
 map,Map/Large print,49
-map,Map/Map series,14807
-map,Map/Single map,243531
-map,Microform,14697
-music,Sound,1378152
-music,"Sound/Interview, lecture, talk",114826
-music,Sound/Other sound,591484
-music,Sound/Recorded music,694438
-music,Video,962906
-music,Video/Captioned,129776
-music,Printed music,636011
-music,Audio book,318669
-music,Microform,5216
-collection,Unpublished,4773641
-collection,Published,270900
-picture,Photograph,4607495
-picture,Object,576719
-picture,Art work,256451
-picture,"Poster, chart, other",237964
-picture,Microform,578
-article,Article,10957736
-article,Article/Abstract,2661
-article,Article/Book chapter,186617
-article,Article/Conference paper,386867
-article,Article/Journal or magazine article,4762680
-article,Article/Other article,4840922
-article,Article/Report,689424
-article,Article/Review,317579
-article,Article/Working paper,89601
-article,Periodical,2167094
-article,"Periodical/Journal, magazine, other",2083361
-article,Periodical/Newspaper,85435
-article,Conference Proceedings,535241
-article,Microform,333245
-article,Data set,243069
-book,Book,17935294
-book,Book/Braille,36525
-book,Book/Illustrated,8297682
-book,Book/Large print,118221
-book,Microform,892458
-book,Thesis,658823
-book,Conference Proceedings,535241
-book,Audio book,318669
-book,Archived website,24280
-newspaper,Article,241084282
+map,Map/Map series,14832
+map,Map/Single map,243728
+map,Microform,14698
+music,Sound,1378791
+music,"Sound/Interview, lecture, talk",114831
+music,Sound/Other sound,591738
+music,Sound/Recorded music,694825
+music,Video,963236
+music,Video/Captioned,129831
+music,Printed music,636329
+music,Audio book,318754
+music,Microform,5222
+picture,Photograph,4609564
+picture,Object,577119
+picture,Art work,256485
+picture,"Poster, chart, other",238080
+picture,Microform,582
+collection,Unpublished,4778107
+collection,Published,270981
+article,Article,10983153
+article,Article/Abstract,2672
+article,Article/Book chapter,186736
+article,Article/Conference paper,387038
+article,Article/Journal or magazine article,4766481
+article,Article/Other article,4861431
+article,Article/Report,690085
+article,Article/Review,317668
+article,Article/Working paper,89649
+article,Periodical,2194859
+article,"Periodical/Journal, magazine, other",2110657
+article,Periodical/Newspaper,85904
+article,Conference Proceedings,535423
+article,Microform,333366
+article,Data set,243074
+book,Book,17948127
+book,Book/Braille,36526
+book,Book/Illustrated,8302166
+book,Book/Large print,118277
+book,Microform,894188
+book,Thesis,659037
+book,Conference Proceedings,535423
+book,Audio book,318754
+book,Archived website,24282
+newspaper,Article,241210276
