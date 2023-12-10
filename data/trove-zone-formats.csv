@@ -1,23 +1,18 @@
 zone,format,total
-list,List,110428
+list,List,110429
 gazette,Article,3535033
-map,Map,381870
+map,Map,381869
 map,Map/Aerial photograph,11881
 map,Map/Atlas,36703
 map,Map/Braille,124
 map,Map/Electronic,6116
 map,Map/Globe or object,556
 map,Map/Large print,48
-map,Map/Map series,15136
-map,Map/Single map,245748
+map,Map/Map series,15137
+map,Map/Single map,245745
 map,Microform,16464
 collection,Unpublished,4801512
-collection,Published,280704
-picture,Photograph,4808757
-picture,Object,580702
-picture,Art work,259748
-picture,"Poster, chart, other",239292
-picture,Microform,595
+collection,Published,280705
 music,Sound,1387537
 music,"Sound/Interview, lecture, talk",115347
 music,Sound/Other sound,592624
@@ -27,13 +22,18 @@ music,Video/Captioned,130283
 music,Printed music,640443
 music,Audio book,320730
 music,Microform,5642
+picture,Photograph,4808757
+picture,Object,580702
+picture,Art work,259748
+picture,"Poster, chart, other",239292
+picture,Microform,595
 article,Article,11041861
 article,Article/Abstract,2640
 article,Article/Book chapter,189339
 article,Article/Conference paper,389793
 article,Article/Journal or magazine article,4790100
 article,Article/Other article,4886495
-article,Article/Report,695063
+article,Article/Report,695064
 article,Article/Review,318129
 article,Article/Working paper,90040
 article,Periodical,2211129
@@ -42,13 +42,13 @@ article,Periodical/Newspaper,87037
 article,Conference Proceedings,541883
 article,Microform,333638
 article,Data set,246695
-book,Book,18080462
+book,Book,18080463
 book,Book/Braille,36695
-book,Book/Illustrated,8353727
+book,Book/Illustrated,8353726
 book,Book/Large print,119133
 book,Microform,889375
 book,Thesis,661713
 book,Conference Proceedings,541883
 book,Audio book,320730
 book,Archived website,24552
-newspaper,Article,243003188
+newspaper,Article,243202088
