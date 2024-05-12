@@ -1,54 +1,54 @@
 zone,format,total
-list,List,111795
+list,List,111840
 gazette,Article,3535033
-map,Map,387685
+map,Map,387717
 map,Map/Aerial photograph,11954
-map,Map/Atlas,37151
+map,Map/Atlas,37153
 map,Map/Braille,125
-map,Map/Electronic,6162
+map,Map/Electronic,6163
 map,Map/Globe or object,563
 map,Map/Large print,49
-map,Map/Map series,15722
-map,Map/Single map,249612
-map,Microform,16585
-collection,Unpublished,4917967
-collection,Published,338761
-music,Sound,1404037
-music,"Sound/Interview, lecture, talk",116150
-music,Sound/Other sound,594755
-music,Sound/Recorded music,715999
-music,Video,986513
-music,Video/Captioned,131122
-music,Printed music,651958
-music,Audio book,323171
-music,Microform,6191
-picture,Photograph,4899631
-picture,Object,587173
-picture,Art work,261238
-picture,"Poster, chart, other",241959
+map,Map/Map series,15724
+map,Map/Single map,249615
+map,Microform,16586
+collection,Unpublished,4924313
+collection,Published,341958
+music,Sound,1404234
+music,"Sound/Interview, lecture, talk",116153
+music,Sound/Other sound,594863
+music,Sound/Recorded music,716099
+music,Video,986853
+music,Video/Captioned,131138
+music,Printed music,652058
+music,Audio book,323371
+music,Microform,6193
+picture,Photograph,4900344
+picture,Object,587281
+picture,Art work,261283
+picture,"Poster, chart, other",241961
 picture,Microform,613
-article,Article,11109803
+article,Article,11110662
 article,Article/Abstract,2830
-article,Article/Book chapter,196502
-article,Article/Conference paper,396548
-article,Article/Journal or magazine article,4733232
-article,Article/Other article,4977348
-article,Article/Report,703721
-article,Article/Review,317761
-article,Article/Working paper,90703
-article,Periodical,2307102
-article,"Periodical/Journal, magazine, other",2217526
-article,Periodical/Newspaper,91385
-article,Conference Proceedings,553060
-article,Microform,336967
-article,Data set,250257
-book,Book,18335610
+article,Article/Book chapter,196584
+article,Article/Conference paper,396762
+article,Article/Journal or magazine article,4734878
+article,Article/Other article,4976225
+article,Article/Report,703805
+article,Article/Review,317786
+article,Article/Working paper,90714
+article,Periodical,2308105
+article,"Periodical/Journal, magazine, other",2218524
+article,Periodical/Newspaper,91390
+article,Conference Proceedings,553275
+article,Microform,336968
+article,Data set,251008
+book,Book,18339772
 book,Book/Braille,36715
-book,Book/Illustrated,8445031
-book,Book/Large print,120881
-book,Microform,899045
-book,Thesis,678839
-book,Conference Proceedings,553060
-book,Audio book,323171
+book,Book/Illustrated,8447002
+book,Book/Large print,120895
+book,Microform,899222
+book,Thesis,679087
+book,Conference Proceedings,553275
+book,Audio book,323371
 book,Archived website,24546
-newspaper,Article,248506723
+newspaper,Article,248570838
