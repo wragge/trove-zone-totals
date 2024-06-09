@@ -1,85 +1,85 @@
 category_name,category_code,format,total
-Books & Libraries,book,Book,17231004
-Books & Libraries,book,Book/Braille,36620
-Books & Libraries,book,Book/Illustrated,7973129
-Books & Libraries,book,Book/Large print,121167
-Books & Libraries,book,Article,7291199
+Books & Libraries,book,Book,17239577
+Books & Libraries,book,Book/Braille,36615
+Books & Libraries,book,Book/Illustrated,7976919
+Books & Libraries,book,Book/Large print,121229
+Books & Libraries,book,Article,7299784
 Books & Libraries,book,Article/Abstract,99
-Books & Libraries,book,Article/Book chapter,67174
-Books & Libraries,book,Article/Conference paper,111719
-Books & Libraries,book,Article/Journal or magazine article,1970601
-Books & Libraries,book,Article/Other article,4679112
-Books & Libraries,book,Article/Report,468349
-Books & Libraries,book,Article/Review,285289
-Books & Libraries,book,Article/Working paper,72875
-Books & Libraries,book,Periodical,2064241
-Books & Libraries,book,"Periodical/Journal, magazine, other",1977278
-Books & Libraries,book,Periodical/Newspaper,88757
-Books & Libraries,book,Microform,957226
-Books & Libraries,book,Conference Proceedings,490167
-Books & Libraries,book,Audio book,323583
-Books & Libraries,book,Government publication,230853
-Books & Libraries,book,Thesis,39018
+Books & Libraries,book,Article/Book chapter,67190
+Books & Libraries,book,Article/Conference paper,111727
+Books & Libraries,book,Article/Journal or magazine article,1970731
+Books & Libraries,book,Article/Other article,4687452
+Books & Libraries,book,Article/Report,468475
+Books & Libraries,book,Article/Review,285314
+Books & Libraries,book,Article/Working paper,72886
+Books & Libraries,book,Periodical,2065429
+Books & Libraries,book,"Periodical/Journal, magazine, other",1978416
+Books & Libraries,book,Periodical/Newspaper,88810
+Books & Libraries,book,Microform,957273
+Books & Libraries,book,Conference Proceedings,491791
+Books & Libraries,book,Audio book,323789
+Books & Libraries,book,Government publication,231010
+Books & Libraries,book,Thesis,39037
 Books & Libraries,book,Archived website,33688
 Books & Libraries,book,Data set,28
-"Diaries, Letters & Archives",diary,Unpublished,4943605
-"Diaries, Letters & Archives",diary,Published,342166
-"Diaries, Letters & Archives",diary,Government publication,2882
-"Images, Maps & Artefacts",image,Photograph,4832799
-"Images, Maps & Artefacts",image,Object,587733
-"Images, Maps & Artefacts",image,Map,388355
-"Images, Maps & Artefacts",image,Map/Aerial photograph,11959
-"Images, Maps & Artefacts",image,Map/Atlas,37207
+"Diaries, Letters & Archives",diary,Unpublished,4955338
+"Diaries, Letters & Archives",diary,Published,342529
+"Diaries, Letters & Archives",diary,Government publication,2884
+"Images, Maps & Artefacts",image,Photograph,4834603
+"Images, Maps & Artefacts",image,Object,587858
+"Images, Maps & Artefacts",image,Map,388558
+"Images, Maps & Artefacts",image,Map/Aerial photograph,11962
+"Images, Maps & Artefacts",image,Map/Atlas,37224
 "Images, Maps & Artefacts",image,Map/Braille,125
 "Images, Maps & Artefacts",image,Map/Electronic,6171
 "Images, Maps & Artefacts",image,Map/Globe or object,574
 "Images, Maps & Artefacts",image,Map/Large print,49
-"Images, Maps & Artefacts",image,Map/Map series,15779
-"Images, Maps & Artefacts",image,Map/Single map,250081
-"Images, Maps & Artefacts",image,Art work,261512
-"Images, Maps & Artefacts",image,"Poster, chart, other",242566
-"Images, Maps & Artefacts",image,Government publication,181470
-"Images, Maps & Artefacts",image,Microform,17184
-Lists,list,List,111997
-Magazines & Newsletters,magazine,Article,1816493
+"Images, Maps & Artefacts",image,Map/Map series,15786
+"Images, Maps & Artefacts",image,Map/Single map,250230
+"Images, Maps & Artefacts",image,Art work,261561
+"Images, Maps & Artefacts",image,"Poster, chart, other",242621
+"Images, Maps & Artefacts",image,Government publication,181547
+"Images, Maps & Artefacts",image,Microform,17185
+Lists,list,List,112077
+Magazines & Newsletters,magazine,Article,1816492
 Magazines & Newsletters,magazine,Article/Book chapter,4
 Magazines & Newsletters,magazine,Article/Conference paper,2
-Magazines & Newsletters,magazine,Article/Journal or magazine article,1814118
+Magazines & Newsletters,magazine,Article/Journal or magazine article,1814117
 Magazines & Newsletters,magazine,Article/Other article,2374
 Magazines & Newsletters,magazine,Article/Report,86
 Magazines & Newsletters,magazine,Periodical,711
 Magazines & Newsletters,magazine,"Periodical/Journal, magazine, other",711
 Magazines & Newsletters,magazine,Government publication,217
 Magazines & Newsletters,magazine,Conference Proceedings,3
-"Music, Audio & Video",music,Sound,1411539
-"Music, Audio & Video",music,"Sound/Interview, lecture, talk",116271
-"Music, Audio & Video",music,Sound/Other sound,595416
-"Music, Audio & Video",music,Sound/Recorded music,722753
-"Music, Audio & Video",music,Video,989627
-"Music, Audio & Video",music,Video/Captioned,131889
-"Music, Audio & Video",music,Printed music,655376
-"Music, Audio & Video",music,Audio book,323701
-"Music, Audio & Video",music,Government publication,29193
-"Music, Audio & Video",music,Microform,6206
-Newspapers & Gazettes,newspaper,Article,252206020
-Research & Reports,research,Article,2807034
-Research & Reports,research,Article/Abstract,2782
-Research & Reports,research,Article/Book chapter,144395
-Research & Reports,research,Article/Conference paper,319568
-Research & Reports,research,Article/Journal or magazine article,1623314
-Research & Reports,research,Article/Other article,699979
-Research & Reports,research,Article/Report,270631
-Research & Reports,research,Article/Review,37380
-Research & Reports,research,Article/Working paper,27441
-Research & Reports,research,Government publication,2060273
-Research & Reports,research,Book,1370326
+"Music, Audio & Video",music,Sound,1412283
+"Music, Audio & Video",music,"Sound/Interview, lecture, talk",116291
+"Music, Audio & Video",music,Sound/Other sound,595581
+"Music, Audio & Video",music,Sound/Recorded music,723319
+"Music, Audio & Video",music,Video,990102
+"Music, Audio & Video",music,Video/Captioned,131906
+"Music, Audio & Video",music,Printed music,655736
+"Music, Audio & Video",music,Audio book,323907
+"Music, Audio & Video",music,Government publication,29199
+"Music, Audio & Video",music,Microform,6209
+Newspapers & Gazettes,newspaper,Article,252315091
+Research & Reports,research,Article,2824088
+Research & Reports,research,Article/Abstract,2792
+Research & Reports,research,Article/Book chapter,145539
+Research & Reports,research,Article/Conference paper,322473
+Research & Reports,research,Article/Journal or magazine article,1635784
+Research & Reports,research,Article/Other article,700590
+Research & Reports,research,Article/Report,270837
+Research & Reports,research,Article/Review,37409
+Research & Reports,research,Article/Working paper,27446
+Research & Reports,research,Government publication,2060903
+Research & Reports,research,Book,1371008
 Research & Reports,research,Book/Braille,826
-Research & Reports,research,Book/Illustrated,616760
+Research & Reports,research,Book/Illustrated,616989
 Research & Reports,research,Book/Large print,974
-Research & Reports,research,Thesis,680184
-Research & Reports,research,Microform,315580
-Research & Reports,research,Periodical,275144
-Research & Reports,research,"Periodical/Journal, magazine, other",271790
-Research & Reports,research,Periodical/Newspaper,3481
-Research & Reports,research,Data set,251175
-Research & Reports,research,Conference Proceedings,78133
+Research & Reports,research,Thesis,680447
+Research & Reports,research,Microform,315592
+Research & Reports,research,Periodical,275247
+Research & Reports,research,"Periodical/Journal, magazine, other",271892
+Research & Reports,research,Periodical/Newspaper,3482
+Research & Reports,research,Data set,252019
+Research & Reports,research,Conference Proceedings,78175
